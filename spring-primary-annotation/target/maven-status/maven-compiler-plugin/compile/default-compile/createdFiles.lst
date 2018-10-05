@@ -1,0 +1,6 @@
+net\javaguides\spring\primary\Application.class
+net\javaguides\spring\primary\FacebookMessageService.class
+net\javaguides\spring\primary\AppConfig.class
+net\javaguides\spring\primary\TwitterMessageService.class
+net\javaguides\spring\primary\EmailMessageService.class
+net\javaguides\spring\primary\MessageService.class
